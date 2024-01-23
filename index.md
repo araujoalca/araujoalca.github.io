@@ -20,7 +20,7 @@ Acredito que, por um lado, devemos preservar e aprimorar as experiências de apr
 - ☕ Java
 - 🐍 Python
 - 🌐 HTML, CSS, JavaScript
-- Banco de Dados
+- 🛢️ Banco de Dados
 
   
 <!-- 
