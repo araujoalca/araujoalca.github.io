@@ -9,7 +9,7 @@
 - ☕ Java
 - 🐍 Python
 - 🌐 HTML, CSS, JavaScript
-
+<!-- 
 ## Atividades Recentes no GitHub
 1. [Repositório Legal](link-do-repositorio)
    - Descrição curta do que você fez ou contribuiu.
@@ -37,4 +37,4 @@
 ## Projetos em Destaque
 [![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=seuusername&repo=nome-do-repositorio&theme=radical)](link-do-repositorio)
 [![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=seuusername&repo=nome-do-repositorio&theme=radical)](link-do-repositorio)
-
+ -->
