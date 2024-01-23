@@ -20,6 +20,9 @@ Acredito que, por um lado, devemos preservar e aprimorar as experiências de apr
 - ☕ Java
 - 🐍 Python
 - 🌐 HTML, CSS, JavaScript
+- Banco de Dados
+
+  
 <!-- 
 ## Atividades Recentes no GitHub
 1. [Repositório Legal](link-do-repositorio)
